@@ -22,7 +22,7 @@ An easy-to-use API Server for [generating preconfigured](https://github.com/ecra
 
 ---
 
-### Here are some of my Open Source contributions
+### Open Source contributions
 
 - [Became the ContainerSSH core maintainer](https://containerssh.io/)
 - [percona/community](https://github.com/percona/community)
