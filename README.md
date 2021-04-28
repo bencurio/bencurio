@@ -10,7 +10,7 @@ I'm a Software engineer with 7 years experience in the field. Did IoT before it 
 
 Inverter Exporter for Voltronic, Axpert, Mppsolar PIP, etc Inverter
 
-[Learn more &raquo;](https://github.com/bencurio/inverter_exportert)
+[Learn more &raquo;](https://github.com/bencurio/inverter_exporter)
 
 ---
 
