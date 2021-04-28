@@ -14,14 +14,6 @@ Inverter Exporter for Voltronic, Axpert, Mppsolar PIP, etc Inverter
 
 ---
 
-### [Smart Green Power Management](https://github.com/bencurio/smart-green-power-management)
-
-Storing the Green Power into the lead-acid battery isn't a good idea. We need to optimize inverters by controlling power routes with smart relays.
-
-[Learn more &raquo;](https://github.com/bencurio/smart-green-power-management)
-
----
-
 ### [Ubuntu ISO Generator](https://github.com/bencurio/ubuntu-isogen-apiserver)
 
 An easy-to-use API Server for [generating preconfigured](https://github.com/bencurio/ubuntu-isogen-cli/blob/main/example/template.yaml) Ubuntu or Debian ISO files for unattended install. Ideal for Proxmox use or other legacy systems.
