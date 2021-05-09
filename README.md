@@ -6,11 +6,11 @@ I'm a Software engineer with 7 years experience in the field. Did IoT before it 
 
 ---
 
-### [Inverter Exporter](https://github.com/bencurio/inverter_exporter)
+### [InverterIO](https://github.com/inverterio)
 
-Inverter Exporter for Voltronic, Axpert, Mppsolar PIP, etc Inverter
+Modular Inverter Exporter with RS232/RS485/Modbus RTU communication support. Two-way Home Assistant connection via MQTT; Prometheus Exporter support. The communication protocol is not hard-coded :-), so you can easily modify it from YAML files.
 
-[Learn more &raquo;](https://github.com/bencurio/inverter_exporter)
+[Learn more &raquo;](https://github.com/inverterio)
 
 ---
 
