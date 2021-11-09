@@ -26,4 +26,5 @@ An easy-to-use API Server for [generating preconfigured](https://github.com/benc
 
 - [Became the ContainerSSH core maintainer](https://containerssh.io/)
 - [percona/community](https://github.com/percona/community)
+- [The 512-byte VM (Cloud native!)](https://github.com/ovirt/512-byte-vm)
 - [oVirt](https://github.com/oVirt)
