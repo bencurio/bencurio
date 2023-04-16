@@ -1,16 +1,8 @@
 ### Hi there 👋
 
-I'm a Software engineer with 7 years experience in the field. Did IoT before it was cool, built my own power supply for the house, did lots of web-related development.
+I'm a Software engineer with 8 years experience in the field. Did IoT before it was cool, built my own power supply for the house, did lots of web-related development.
 
 ### Interesting projects
-
----
-
-### [InverterIO](https://github.com/inverterio)
-
-Modular Inverter Exporter with RS232/RS485/Modbus RTU communication support. Two-way Home Assistant connection via MQTT; Prometheus Exporter support. The communication protocol is not hard-coded :-), so you can easily modify it from YAML files.
-
-[Learn more &raquo;](https://github.com/inverterio)
 
 ---
 
