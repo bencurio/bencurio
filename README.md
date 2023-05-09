@@ -6,6 +6,10 @@ I'm a Software engineer with 8 years experience in the field. Did IoT before it 
 
 ---
 
+### [Inverter Exporter — `Golang`](https://github.com/bencurio/inverter_exporter)
+
+Communication with PIP inverters, publishing metrics on MQTT Server and/or as Prometheus Exporter. Flexible YAML-based protocol specification between inverter and exporter.
+
 ### [Ubuntu ISO Generator](https://github.com/bencurio/ubuntu-isogen-apiserver)
 
 An easy-to-use API Server for [generating preconfigured](https://github.com/bencurio/ubuntu-isogen-cli/blob/main/example/template.yaml) Ubuntu or Debian ISO files for unattended install. Ideal for Proxmox use or other legacy systems.
