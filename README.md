@@ -7,7 +7,6 @@ I'm a Software engineer with 8 years experience in the field. Did IoT before it 
 ### Open Source contributions
 
 - [OpenTofu](https://github.com/opentofu)
-- [ContainerSSH](https://containerssh.io/)
-- [percona/community](https://github.com/percona/community)
-- [The 512-byte VM (Cloud native!)](https://github.com/ovirt/512-byte-vm)
+- [ContainerSSH](https://containerssh.io)
+- [Percona](https://github.com/percona)
 - [oVirt](https://github.com/oVirt)
